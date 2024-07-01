@@ -75,8 +75,7 @@ JavaScript (optional): For additional interactivity if needed.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
+- MultiPage Website
 - Animation
 - Responsive Design
 
